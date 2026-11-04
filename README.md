@@ -428,11 +428,7 @@ High Risk Count:     =COUNTIF('Alerts Data'!J:J,"High")
 Country Alert Count: =COUNTIF('Alerts Data'!G:G,"CountryName")
 ```
 
-### Contact Information
 
-**Compliance Team**: compliance@organization.com
-**Technical Support**: it-support@organization.com
-**Emergency Escalation**: [Phone number]
 
 ---
 
